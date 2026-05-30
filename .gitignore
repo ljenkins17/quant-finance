@@ -1,0 +1,9 @@
+*.png
+*.jpg
+*.csv
+*.pkl
+*.npy
+__pycache__/
+*.pyc
+.env
+.DS_Store
